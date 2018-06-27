@@ -1,0 +1,19 @@
+class_name: AcceptanceTester
+modules:
+    enabled:
+        - WebDriver:
+            url: https://5.143.250.166/ib6/wf2/iclientadm/
+            window_size: 1920x1080
+
+env:
+    ie:
+         modules:
+            config:
+                WebDriver:
+                    browser: 'ie'
+
+    chrome:
+         modules:
+            config:
+                WebDriver:
+                    browser: 'chrome'
