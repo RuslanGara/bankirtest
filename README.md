@@ -12,8 +12,8 @@ tests\acceptance\AboutCest.php    Тестовый сценарий
 ```
 
 #### Домашняя страница easyiicms и codeception ####
-* [Homepage](http://easyiicms.com)
-* [Homepage](https://codeception.com/)
+* [Homepage easyiicms](http://easyiicms.com)
+* [Homepage codeception](https://codeception.com/)
 #### Contacts ####
 
 
